@@ -1,5 +1,5 @@
 {
-  "general": {
+  "general": [{
     "earnings": {
       "balance": 1281751,
       "currentMonthData": [
@@ -691,5 +691,5 @@
         }
       ]
     }
-  }
+  }]
 }
