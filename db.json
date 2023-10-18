@@ -1,11 +1,11 @@
 {
-	"general": [
+	"posts": [
 		{
-			"earnings": {
-				"balance": 1281751,
-				"currentMonthData": [],
-				"previousMonthData": []
-			}
+			"id": 1,
+			"title": "hello"
 		}
-	]
+	],
+	"profile": {
+		"name": "typicode"
+	}
 }
